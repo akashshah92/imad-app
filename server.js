@@ -45,7 +45,7 @@ var htmltemplate=
         </div>
     </body>
 </html>`;
-return htmltempate;
+return htmltemplate;
 }
 
 app.get('/', function (req, res) {
